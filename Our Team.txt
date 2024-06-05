@@ -1,0 +1,7 @@
+=>Our Team
+   Name                   Enrollment Number
+1. Oza Vatsal             236510307036
+2. Harshal Mirani         236510307031
+3. Om Pandya              236510307038 
+4  Henil Patel            236510307042
+5. Dhruv Patel            236510307041 
